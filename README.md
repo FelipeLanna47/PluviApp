@@ -47,16 +47,16 @@ Protoboard e Fios Jumper
 
 
  Código Fonte
-O código Arduino (C++) está no repositório, com comentários, nomenclatura clara, indentação adequada e lógica estruturada, seguindo boas práticas.
+O código Arduino (C++) está no repositório, com comentários, seguindo boas práticas.
 
 
    Links Importantes
-Link Direto para o Projeto no Simulador Tinkercad: (https://www.tinkercad.com/things/duQDQfHa8Kh-mighty-snicket/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits)
+Link Direto para o Projeto no Simulador Tinkercad: https://www.tinkercad.com/things/duQDQfHa8Kh-pluviapp-sistema-de-alerta-de-enchentes/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits
 
-Link para o Vídeo Demonstrativo (YouTube/Drive): https://youtu.be/u-jQ0V5bS1c
+Link para o Vídeo Demonstrativo (YouTube/Drive): https://www.youtube.com/watch?v=u-jQ0V5bS1c
 
-Link para este Repositório GitHub: https://github.com/FelipeLanna47/-PluviApp-Hardware?tab=readme-ov-file
+Link para este Repositório GitHub: https://github.com/FelipeLanna47/PluviApp
 
 
    Avaliação Funcional no Simulador
-O projeto foi projetado para funcionar corretamente no Tinkercad. Sua validação demonstrará a resposta do sistema a diferentes níveis de água, umidade e entradas do usuário
+O projeto foi feito para funcionar no Tinkercad. Será demonstrado a resposta do sistema a diferentes níveis de água e os leds que acendem conforme o nível de água sobe, sendo verde em nivel ok, até 15cm próximo do sensor, de 14 a 10 cm é aceso o led amarelo e por fim abaixo de 10 é aceso o vermelho.
